@@ -1,2 +1,8 @@
 $mainBlue: #2f5572;
-$mainOrange: #d59541
+$mainOrange: #d59541;
+
+
+
+img{
+    max-width: 100%;
+}
